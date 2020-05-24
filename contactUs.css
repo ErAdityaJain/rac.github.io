@@ -1,0 +1,175 @@
+@charset "utf-8";
+/* CSS Document */
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;
+  }
+  						.h1{
+							text-align:center;
+							font-family:Tahoma, Geneva, sans-serif;
+							color:#000;		}
+							.one{
+							text-align:center;
+							font-family:Tahoma, Geneva, sans-serif;
+							font-size:20px;
+							font-style:normal;}
+ 
+.Contact{
+	margin:50px auto;}
+	.Contact h1{
+		text-align:center;
+		font-weight: bold;
+		color:#ff9800;
+		padding-bottom:10px;
+		text-transform:uppercase;
+		}
+		
+			.Contact h1::after{
+				content:' ';
+				background:#ff9800;
+				display:block;
+				height:3px;
+				width:170px;
+				margin:20px auto 5px;
+			}
+	.Contact .row
+	{
+		margin-top:30px;
+	}
+	.col-md-4
+	{
+		margin:40px auto;
+	}
+	.profile
+	{
+		padding:70px 10px 10px;
+		background-color:#efefef;
+	}	
+	.profile img
+	{
+	top:-60px;
+	position:absolute;
+	left:calc(-50% -60px);
+	border:10px solid white;
+	}
+	.user
+	{
+		width:120px;
+		height:120px;
+		border-radius:50%;}
+	.profile h3
+	{
+		font-size:20px;
+		margin-top:15px;
+		color:#ff9800;}
+		
+	span
+	{
+		font-size:12px;
+		color:#333;}
+	blockquote
+	{
+		font-size:16px;
+		line-height:30px;
+		text-align:justify;
+	}
+		.profile:hover
+	{
+		box-shadow: 0 0 15px 5px rgba(0,0,0,0.2);
+		cursor:pointer;
+		transition:0.5s;}
+		.two{
+					font-family:Tahoma, Geneva, sans-serif;
+					font-size:20px;
+				}
+		@charset "utf-8";
+body{
+	margin:0;
+	}
+	#container{
+		width:100%;
+	}
+	#headerbg{
+		width:100%;
+		background-color:#000;
+		height:70px;
+		}
+		#interior{
+			width:1100px;
+			margin:0 auto;
+				}
+				#header{
+					width: 100%;
+					height:85px;
+					}
+				#logo{
+					width:85px;
+					height:85px;
+					background-image:url(resize-159005882673721537logo.jpg);
+					float:left;
+					display:inline-block;
+					}
+					#topNav{
+						width:1015px;;
+						float:left;
+						color:#fff;
+						height:40px;
+						background-color:#000;
+						float:left;
+						}
+					.topNavFont{
+						font-size:1.25em;
+						color:#fff;
+						line-height:40px;
+						vertical-align:middle;
+						font-family:sans-serif;
+						padding-left:15px;
+						display:inline-block;
+						padding-right:12px;
+						
+						}
+						.greyFont{
+							color:#ccc;}
+						#topNavFloatRight{
+							float:right;
+							width:300px;}
+							.topNavRight{
+								font-size:.9em;
+								color:#999;
+								line-height:40px;
+								vertical-align:middle;
+								font-family:sans-serif;
+								padding-left:15px;
+								display:inline-block;
+								padding-right:12px;
+								float:right;
+					         }
+						#bottomNav{
+						width:1015px;;
+						float:left;
+						color:#fff;
+						height:35px;
+						background-color:#ccc;
+						float:left;
+							}
+						.bottomNavFont{
+						font-size:.9em;
+						color:#222;
+						line-height:35px;
+						vertical-align:middle;
+						font-family:sans-serif;
+						padding-left:15px;
+						display:inline-block;
+						padding-right:12px;
+						font-weight:400;
+						}
+						
+		/* CSS Document */
+
+
+		
+	
+
+
