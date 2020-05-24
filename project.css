@@ -6,8 +6,8 @@
 					.maindiv{
 						width:70%;
 						height:400px;
-						position:relative;
-						margin-left:50%;
+						position:absolute;
+						margin-left:50%
 						
 						transform:translate(-50%, -50%);
 						background-image:url(p4.jpg);
