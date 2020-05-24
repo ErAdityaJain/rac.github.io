@@ -6,7 +6,7 @@
 					.maindiv{
 						width:70%;
 						height:400px;
-						position:absolute;
+						position:relative;
 						margin-left:50%;
 						
 						transform:translate(-50%, -50%);
